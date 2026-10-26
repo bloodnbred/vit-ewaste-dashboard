@@ -127,8 +127,9 @@ The site is also Netlify-ready: drag the project folder into Netlify Drop, or co
 
 ## Repository and hosting
 
-- GitHub: <https://github.com/bloodnbred/vit-ewaste-dashboard>
-- Vercel production URL: added after the first deployment.
+- **Live site:** <https://vit-ewaste-dashboard.vercel.app>
+- **GitHub:** <https://github.com/bloodnbred/vit-ewaste-dashboard>
+- **Vercel project:** `vit-ewaste-dashboard` (connected to the `main` branch for future pushes)
 
 
 ## Deep links

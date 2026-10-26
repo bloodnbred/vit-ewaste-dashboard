@@ -4,3 +4,4 @@ scripts/
 README.md
 .gitignore
 .vercelignore
+.vercel/
