@@ -1,0 +1,6 @@
+.vercel/
+node_modules/
+prompt.txt
+*.log
+.DS_Store
+Thumbs.db
