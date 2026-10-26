@@ -2,6 +2,8 @@
 
 A single-page showcase of deployed e-waste dashboards built by TE Semester V Computer Engineering students at **Vidyalankar Institute of Technology, Mumbai** (Academic Year 2026–27, subject faculty **Dr. Aniket Kundu**).
 
+**Live site:** <https://vit-ewaste-dashboard.vercel.app> · **Repository:** <https://github.com/bloodnbred/vit-ewaste-dashboard>
+
 Plain **HTML + CSS + vanilla JavaScript**. No framework, package install, or build step is required.
 
 ## Files
